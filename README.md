@@ -1,4 +1,5 @@
-# Controle de estoque Ustore
+# Controle de estoque
+
 
 Projeto composto pelas 4 operações básicas de um CRUD, ou seja, create, read, update e delete. O sistema consiste numa rotina de inventário de produtos onde todas as operações citadas podem ser realizadas. Foi criada uma tabela de banco de dados para armazenar as informações passadas pelos usuários. 
 
